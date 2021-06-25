@@ -1,2 +1,62 @@
 # CursoPOOUber
-Curso Programación Orientada a Objetos (POO)
+OOP course
+
+On this course I learned the basic concepts of Object Oriented Programming and how to implement them in Java, Python, JavaScript and PHP. For this implementation we analyzed Uber.
+
+## Objets
+
+Object: has properties and behaviors (methods), it can be physical or cenceptual.
+
+Attribute: properties that describe and object.
+
+Method: actions that an object can perform.
+
+## Abstractionn y Classes
+Class: model based on the abstraction of an object
+
+Abstraction: process in which we separate the characteristics of an object.
+
+## Modularity
+
+Modular: Dividir un sistema y así crear módulos independientes, lo que permite evitar.
+
+La modularidad nos permite:
+- Reutilizar
+- Evitar colapsos
+Hacer nuestro código más mantenible
+- Legibilidad
+- Resolución rápida de problemas
+
+Modular: Divide a system and create independent modules.
+
+Modularity allows us to:
+- Reuse
+- Avoid collapses
+- Make maintainable code
+- Readability
+- Troubleshooting
+
+## Inheritance
+Inheritance allows us to create new classes from other classes. 
+- A father (superclass) and son (subclass) relationship is established.
+
+The abstraction allows us to generate a general class that contains the common elements of out subclasses. When a class inherits from another, this means that they acquire all the attributes and methods of the other class.
+
+## Objects and the Constructor method
+
+Object: is the instance of a class. It is the result of the parameters we declare in the class.
+
+Constructor: it gives an initial state to the object. The data passed to the constructor will be the mimimum data for the object to exist.
+
+## Encapsulation
+
+Encapsulation: it is to make the data unalterable when an access modifier is assigned to it.
+
+Access levels:
+- Public: all classes.
+- Protected: classes, packages and subclasses.
+- Default: classes and internal packages.
+- Private: class level.
+
+## Polimorfism
+Polimorfism: to construct methods with the same name but different behavior
