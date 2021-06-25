@@ -1,7 +1,7 @@
 # CursoPOOUber
 OOP course
 
-## Table od contents
+## Table of contents
 
 * [General info](#general-info) 
 * [Technologies](#technologies) 
