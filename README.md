@@ -51,7 +51,7 @@ Install the PHP Server extension.
 ## Concepts
 On this section are some of the concepts seen throughout the course.
 
-### Objets
+### Objects
 
 Object: has properties and behaviors (methods), it can be physical or cenceptual.
 
