@@ -11,21 +11,12 @@ Attribute: properties that describe and object.
 
 Method: actions that an object can perform.
 
-## Abstractionn y Classes
+## Abstraction y Classes
 Class: model based on the abstraction of an object
 
 Abstraction: process in which we separate the characteristics of an object.
 
 ## Modularity
-
-Modular: Dividir un sistema y así crear módulos independientes, lo que permite evitar.
-
-La modularidad nos permite:
-- Reutilizar
-- Evitar colapsos
-Hacer nuestro código más mantenible
-- Legibilidad
-- Resolución rápida de problemas
 
 Modular: Divide a system and create independent modules.
 
